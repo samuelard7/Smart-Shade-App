@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Remote Ai App</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Provide a recipe for the baked goods in the image</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="enter_device_id">Enter Device ID</string>
+    <string name="ai_environmental_monitor">AI Environmental Monitor</string>
+    <string name="get_sensor_data">Get Sensor Data</string>
+    <string name="temperature_will_appear_here">Temperature will appear here</string>
+    <string name="temp">🌡 Temp:</string>
+    <string name="humidity">💧 Humidity:</string>
+    <string name="prediction">🧠 Prediction:</string>
+    <string name="aqi">🌫 AQI:</string>
+    <string name="health_suggestion">Health Suggestion</string>
+    <string name="show_humidity_graph">💧 Show Humidity Graph</string>
+    <string name="show_temperature_graph">📈 Show Temperature Graph</string>
+    <string name="show_aqi_graph">🌫 Show AQI Graph</string>
+    <string name="ask_current_weather">Ask: Current weather?</string>
+    <string name="ask">Ask</string>
+    <string name="bot_ready_to_answer">🤖 Bot: Ready to answer!</string>
+    <string name="temp_c">🌡 Temp: --°C</string>
+</resources>
